@@ -5,8 +5,9 @@ The topics of the projects range from many Machine Learning topics such as Spect
 
 Some of the projects include:
 
-Image Classification with MLPs
-Master Thesis - Garbage Detection with YOLOv5 for City Streets
-Regularizing MLPs
-Spectral Clustering
-Clustering Methods on UN Data - A Statistical Analysis in R
+Image Classification with MLPs  <br />
+Master Thesis - Garbage Detection with YOLOv5 for City Streets  <br />
+Regularizing MLPs  <br />
+Spectral Clustering  <br />
+Clustering Methods on UN Data - A Statistical Analysis in R  <br />
+
